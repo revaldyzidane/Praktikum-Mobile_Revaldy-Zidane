@@ -20,4 +20,5 @@ Saya Mahasiswa Teknik Informatika.
 | 12  | 22-10-2025 | 08           | Ujian Tengah Semester                | [UTS](https://drive.google.com/file/d/1lOA5OdQpgvOYNBecJbM2edmYZb59NDT9/view) | [Laporan UTS](https://drive.google.com/file/d/19NqGlYjFdyujgiWXM6IeSByH9tmhTtbc/view?usp=drive_link) |
 | 13  | 05-11-2025 | 09           | Akses Lokasi dengan GPS di Flutter   | [Modul 12](https://drive.google.com/file/d/1xebyDWrK97sHBuk18l03xJ0v6Ng031f6/view) | [Laporan 12](https://drive.google.com/file/d/1UPyhvH8UkN0x4hYK473VPM17uD9sLdAN/view?usp=drive_link) | 
 | 14 | 12-11-2025  | 10           | Menampilkan Google Maps Lokasi dengan GPS di Flutter | | [Program Modul 13](https://github.com/revaldyzidane/Praktikum-Mobile-Modul-13) | 
+| 15 | 19-11-2025  | 11           | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 14](https://drive.google.com/file/d/12oLMVn6X460gDB_xag5f1y8vFBRsLFOj/view) | [Laporan 14](https://drive.google.com/file/d/1Ys5IqdCGVjSqiG0XZuarqU1d1Yqjq1AY/view?usp=drive_link) |
 
